@@ -8,7 +8,7 @@
   "scripts": {
     "preinstall": "bash deps.sh"
   },
-  "version": "0.0.3",
+  "version": "0.1.0",
   "dependencies": {
     "speaker": "~0.0.10",
     "request": "~2.22.0",
